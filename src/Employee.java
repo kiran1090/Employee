@@ -12,7 +12,7 @@ public class Employee {
         this.salary=salary;
         this.location=location;
     }
-//create a function salary raise//
+//create a function salary raise
     void raiseSalary() {
         this.salary = this.salary * 2000;
     }

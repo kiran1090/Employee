@@ -14,6 +14,6 @@ public class Employee {
     }
 //create a function salary raise
     void raiseSalary() {
-        this.salary = this.salary * 2000;
+        this.salary = this.salary + 2000;
     }
 }
